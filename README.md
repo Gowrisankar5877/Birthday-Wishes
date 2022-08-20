@@ -1,2 +1,2 @@
 # Birthday-Wishes
-Birthday Wishes through C-Graphucs
+Birthday Wishes through C-Graphics
